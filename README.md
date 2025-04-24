@@ -1,1 +1,3 @@
+Binary and Multiclass Logistic Regression on MNIST Subset Using Custom Gradient Descent Methods
+
 Explored binary and multiclass classification on a subset of the MNIST dataset (digits 0, 1, and 2) using custom logistic regression models. Extracted handcrafted features—symmetry and intensity—from 16×16 grayscale images to train classifiers. Implemented and compared Batch Gradient Descent (BGD), Stochastic Gradient Descent (SGD), and Mini-Batch Gradient Descent (MiniBGD) for both sigmoid-based binary classification (digits 1 vs 2) and softmax-based multiclass classification (digits 0, 1, 2). Produced visualizations of feature distributions and decision boundaries to analyze model performance.
